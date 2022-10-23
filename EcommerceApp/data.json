@@ -1,0 +1,37 @@
+{
+    "category": 
+    {
+        "id": 3, 
+        "image": "https://api.lorem.space/image/furniture?w=640&h=480&r=870", 
+        "name": "Furniture"
+    }, 
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support", 
+    "id": 1, 
+    "images": 
+    [
+        "https://api.lorem.space/image/furniture?w=640&h=480&r=1921", 
+        "https://api.lorem.space/image/furniture?w=640&h=480&r=1103", 
+        "https://api.lorem.space/image/furniture?w=640&h=480&r=951"
+    ], 
+        "price": 445, 
+        "title": "Practical Cotton Soap"
+}
+{ 
+    "id": 6, 
+    "title": "Unbranded Frozen Pants", 
+    "price": 399, 
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive", 
+    "category": 
+    { 
+        "id": 1, 
+        "name": "Clothes", 
+        "image": "https://api.lorem.space/image/fashion?w=640&h=480&r=1811" 
+    }, 
+    "images": 
+    [
+        "https://api.lorem.space/image/fashion?w=640&h=480&r=3036", 
+        "https://api.lorem.space/image/fashion?w=640&h=480&r=4744", 
+        "https://api.lorem.space/image/fashion?w=640&h=480&r=7443"
+    ] 
+}
+    
